@@ -1,1 +1,2 @@
 # Barbershop-Systems
+Esse sistema foi desenvolvido para otimizar a gestão das operações diárias da barbearia, permitindo fácil cadastro de clientes, acompanhamento de agendamentos, monitoramento dos serviços prestados e atualizados. Com uma interface intuitiva, nosso aplicativo simplifica a administração, proporciona uma experiência eficiente e é personalizável para atender às necessidades específicas de sua instalação.
